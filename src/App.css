@@ -11,8 +11,9 @@ body {
 
   color: var(--mainDark) !important;
 }
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap");
 .text-title {
-  font-family: "Gochi Hand", cursive;
+  font-family: "Kalam", cursive;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
