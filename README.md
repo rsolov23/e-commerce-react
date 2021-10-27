@@ -9,4 +9,4 @@
 
 <br/>
 
-![A screenshot of the web page](./e-commerce/public/img/screenshot.png)
+
