@@ -1,6 +1,6 @@
 # [✧ React E-Commerce App ✧]("https://react-e-commerce-store.herokuapp.com/")
 
-![screenshot](/e-commerce/public/img/screenshot.png)
+![screenshot](https://github.com/rsolov23/e-commerce-react/blob/main/public/img/screenshot.png)
 
 ## Table of Contents
 
@@ -11,9 +11,9 @@
 
 This is a React.js e-commerce app featuring [React]("https://reactjs.org/"), [Bootstrap]("https://getbootstrap.com/"), [Styled-Components]("https://styled-components.com/"), [React-Paypal-Express-Checkout]("https://www.npmjs.com/package/react-paypal-express-checkout"), [React-Router]("https://reactrouter.com/web/guides/quick-start") .
 
-![screenshot](/e-commerce/public/img/screenshot2.png)
+![screenshot](https://github.com/rsolov23/e-commerce-react/blob/main/public/img/screenshot2.png)
 
-![screenshot](/e-commerce/public/img/screenshot3.png)
+![screenshot](https://github.com/rsolov23/e-commerce-react/blob/main/public/img/screenshot3.png)
 
 ### Contribution
 
