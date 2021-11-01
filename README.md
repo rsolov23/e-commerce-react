@@ -6,6 +6,7 @@
 
 - [About](#About)
 - [Contribution](#Contribution)
+- [Credit](#Credit)
 
 ### About
 
@@ -24,3 +25,7 @@ Feel free to contribute to this project in any of the following ways:
 - For specific concerns that do not meet the above please do not hesitate to reach out to me via [My GitHub](https://github.com/rsolov23).
 
 If you are interested in fixing issues directly to the code base, please reference the [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute) article.
+
+### Credit
+
+- Created this app with the tutorial in this [link](https://www.youtube.com/watch?v=wPQ1-33teR4)
