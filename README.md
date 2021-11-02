@@ -6,7 +6,7 @@
 
 - [About](#About)
 - [Contribution](#Contribution)
-- [Credit](#Credit)
+
 
 ### About
 
@@ -26,6 +26,6 @@ Feel free to contribute to this project in any of the following ways:
 
 If you are interested in fixing issues directly to the code base, please reference the [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute) article.
 
-### Credit
+<!-- ### Credit
 
-- Created this app with the tutorial in this [link](https://www.youtube.com/watch?v=wPQ1-33teR4)
+- Created this app with the tutorial in this [link](https://www.youtube.com/watch?v=wPQ1-33teR4) -->
